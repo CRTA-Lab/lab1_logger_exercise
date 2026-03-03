@@ -193,7 +193,8 @@ You should see the recorded trajectory rendered in the `odom` frame.
 **Logger node:**
 - Subscribes to `/odom` and writes `x`, `y`, `yaw` rows to a CSV file
 - Closes the file and shows a trajectory plot on `Ctrl+C`
-![alt text](images/matplotlib_path.png)
+  
+![alt text](media/matplotlib_path.png)
 
 **Path publisher node:**
 - Reads the CSV file and publishes a valid `nav_msgs/msg/Path` on `/path`
