@@ -106,7 +106,7 @@ Replace `<node_name>` with the entry point defined in `setup.py` (e.g. `logger_n
 
 ## Task Description
 
-The exercise is split into two parts. Both nodes are provided as templates — your job is to fill in the missing logic marked with `# TODO`.
+The exercise is split into two parts. Both nodes are provided as templates — your job is to fill in the missing logic marked with `# Fill`.
 
 ---
 
