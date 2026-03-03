@@ -200,6 +200,8 @@ You should see the recorded trajectory rendered in the `odom` frame.
 - Reads the CSV file and publishes a valid `nav_msgs/msg/Path` on `/path`
 - Path is correctly visualised in RViz2 in the `odom` frame
 
+<img src="media/rviz_path.png" width="50%" height="50%" />
+
 ---
 
 ### Useful ROS 2 Commands
